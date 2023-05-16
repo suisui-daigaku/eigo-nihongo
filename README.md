@@ -14,3 +14,12 @@ reverso https://www.reverso.net/
 
 ChatGPT (ask questions like grammar, paraphrase the sentence...)
 
+## Japanese 
+
+kotobank https://kotobank.jp/
+
+Weblio https://ejje.weblio.jp/
+
+https://www.tofugu.com/japanese-grammar/
+
+https://jisho.org/
