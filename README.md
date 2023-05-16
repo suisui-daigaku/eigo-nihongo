@@ -8,4 +8,7 @@ Linguee https://www.linguee.com/
 
 反向字典(wantwords) https://wantwords.net/
 
+linggle https://linggle.com/
+
+ChatGPT (ask questions like grammar, paraphrase the sentence...)
 
