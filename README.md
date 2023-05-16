@@ -10,5 +10,7 @@ Linguee https://www.linguee.com/
 
 linggle https://linggle.com/
 
+reverso https://www.reverso.net/
+
 ChatGPT (ask questions like grammar, paraphrase the sentence...)
 
